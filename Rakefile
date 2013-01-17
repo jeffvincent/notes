@@ -13,14 +13,6 @@ task :pre_jekyll do
     for f in *.haml; do [ -e $f ] && haml $f ../${f%.haml}.html; done
   })
   puts "done."
-
-  print "  Rendering Haml includes ... "
-  system(%{
-    cd _includes/haml && 
-    for f in *.haml; do [ -e $f ] && haml $f ../${f%.haml}.html; done
-  })
-  puts "done."
-
   puts "All done."
 
 end
