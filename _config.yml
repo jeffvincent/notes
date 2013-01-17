@@ -1,4 +1,5 @@
 markdown: rdiscount
+permalink: /:title.html
 multiviews: true
 haml: true
 sass: true
