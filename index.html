@@ -7,7 +7,7 @@ layout: base
     <ul>
       {% for post in site.posts %}
       <li class='title'>
-        <a href="/notes/{{ post.url }}">{{ post.title }}</a>
+        <a href="/notes{{ post.url }}">{{ post.title }}</a>
       </li>
       <li class='date'>
         <span>{{ post.date | date: "%B %e, %Y" }}</span>
