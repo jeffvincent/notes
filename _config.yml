@@ -3,5 +3,6 @@ permalink: /:title.html
 multiviews: true
 haml: true
 sass: true
+baseurl: jeffvincent.github.com/notes
 rdiscount extensions: [smart]
 exclude: [ .gitignore, README.md, Gemfile, Gemfile.lock, Procfile, vendor ]
