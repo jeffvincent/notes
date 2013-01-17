@@ -11,7 +11,12 @@ title: Chamath Palihapitiya
   2. How do you get them to an 'a-ha' moment as quickly as possible?
   3. How do you deliver core product value as often as possible?
 
-* **Question**: What is the core value of the product? How is that exposed to users, and when?
+
+### Question ###
+
+What is the core value of the product? How is that exposed to users, and when?
+
+### Quotes and Other Things ###
 
 * "Measure some shit, Try some shit, Test some more shit, throw the shit that 
 doesn't work out...it's just not that complicated!"
@@ -34,6 +39,9 @@ figure out what is happening and why.
 * Everything around how the company is built and structured goes back to the core
 product mission and value of the company.
 
+* When you see a user spiral downward, it's not a growth problem (although numerically
+it is a growth problem) - it's a core value and a culture problem.
+
 ### RECRUITING ###
 * "Detached, egoless, not living the hype, not trying to follow some lifestyle,
 but doing what you think is important, focusing on core value, ruthlessly prioritizing,
@@ -42,7 +50,3 @@ and getting more people who believe in those things"
 competitiveness, very high quality bar that borders on perfection, people who are 
 comfortable tearing down what works (courage), high integrity (long-term thinking),
 rewarding the culture and set of values"
-
-
-* When you see a user spiral downward, it's not a growth problem (although numerically
-it is a growth problem) - it's a core value and a culture problem.
