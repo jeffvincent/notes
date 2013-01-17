@@ -1,2 +1,2 @@
-doc: bundle exec jekyll --auto --server
+jekyll: jekyll --pygments --no-lsi --safe
 compass: compass watch
