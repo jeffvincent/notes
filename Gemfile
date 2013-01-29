@@ -1,0 +1,10 @@
+source "http://rubygems.org"
+
+gem "jekyll"
+gem "sass"
+gem "haml"
+gem "compass"
+gem "RedCloth"
+gem "rdiscount"
+gem "zurb-foundation", :git => "git@github.com:zurb/foundation.git"
+gem "foreman"
