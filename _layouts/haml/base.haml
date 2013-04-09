@@ -1,19 +1,21 @@
+\---
+\---
+
 !!! Strict
 %html{ :xmlns => 'http://www.w3.org/1999/xhtml', 'xml:lang' => 'en', :lang => 'en' }
   %head
     %meta{ 'http-equiv' => 'Content-Type', :content => "text/html;charset=utf-8" }
     %meta{ :name => "author", :content => "Your Name" }
-    %link{ rel: 'stylesheet', type: 'text/css', href: '/stylesheets/app.scss' }
-    %link{ rel: 'stylesheet', type: 'text/css', href: '/stylesheets/screen.css' }
+    %link{ rel: 'stylesheet', type: 'text/css', href: '{{site.baseurl}}/stylesheets/screen.css' }
     %title
       Jeff's Notes
   %body
     .row
-      #container.twelve.columns
+      #container
         .row
-          #header.nine.columns.offset-by-one.center-content
+          #header
             %h1
               NOTES
         .row
-          #section.nine.columns.offset-by-one.center-content
+          #section
             {{ content }}

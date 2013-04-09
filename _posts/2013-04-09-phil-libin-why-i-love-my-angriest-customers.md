@@ -5,6 +5,7 @@ description:
   Phil Libin, CEO of Evernote, talks about how he handles feedback
   from his customers.
 category: support
+url: http://www.inc.com/magazine/201304/phil-libin/why-i-love-my-angriest-customers.html
 ---
 
 - Phil has an easy-to-guess (although not public) email address

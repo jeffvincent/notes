@@ -1,6 +1,7 @@
 markdown: rdiscount
-permalink: /notes/:title.html
+permalink: /:title.html
 multiviews: true
+baseurl: /notes
 haml: true
 sass: true
 source: .
