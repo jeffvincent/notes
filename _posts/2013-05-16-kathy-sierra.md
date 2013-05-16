@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kathy Sierra: building the minimum badass user
+title: Kathy Sierra - building the minimum badass user
 description: Kathy Sierra Business of Software talk
 category: 
 url: http://businessofsoftware.org/2013/02/kathy-sierra-building-the-minimum-badass-user-business-of-software-a-masterclass-in-thinking-about-software-product-development/ 
