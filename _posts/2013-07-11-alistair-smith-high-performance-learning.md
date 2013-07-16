@@ -32,6 +32,8 @@ category: Learning, Community
 * Provide real-world transfer as much as possible
   * Make sure they are trialing it and testing it!
 
+## Big Four Tenets of Learning
+
 * Connect - with what is already known
 * Activate - Encourage engagement and deep questioning, give them problems to
   solve
